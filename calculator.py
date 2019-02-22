@@ -17,3 +17,4 @@ class LinearEq:
 
 x=LinearEq.slope(10,20,3)
 x    
+fjhgfkhgdgshfgdfhg
