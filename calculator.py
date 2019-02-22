@@ -3,6 +3,7 @@ class Calculator:
     def divide(x,y):return x/y
     def add(x,y): return x+y
     def substract(x,y): return x-y
- 
-x=Calculator.multiply(25,2)
+    def power(x,y): return x**y
+    def root(x): return x**(1/2)
+x=Calculator.power(25,2)
 x    
